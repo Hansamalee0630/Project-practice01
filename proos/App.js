@@ -7,6 +7,9 @@ import Contact from "./Contact.js"
 - import and render 4 instances of that contact card
     - Think ahead: what's the problem with doing it this way?
 */
+/*
+img, name, phoneNo, email === props/properties
+*/
 
 function App() {
     return (
